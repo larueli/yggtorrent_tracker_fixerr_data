@@ -1,0 +1,8 @@
+{
+    "yggtorrent_old_trackers_urls": [
+        "connect.maxp2p.org",
+        "tracker0.yggtorrent.li",
+        "tracker.p2p-world.net"
+    ],
+    "yggtorrent_tracker_url": "http://trackerr.p2p-world.net:8080"
+}
